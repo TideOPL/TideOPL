@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋,I'm Tide</h1>
+<h1 align="center">Hello there 👋, I'm Tide</h1>
 <h3 align="center">A frontend developer from Cheltenham UK</h3>
 
 - 🔭 I’m currently working on [Near Social](https://nearsocial.app)
