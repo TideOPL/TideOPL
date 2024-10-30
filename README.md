@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tokei.live](https://tokei.live)
 
-- 🌱 I’m currently learning **Reccomendation Algorithms**
+- 🌱 I’m currently learning **Recommendation Algorithms**
 
 - 💬 Ask me about **React Native, Expo, NextJS, Tailwind**
 
